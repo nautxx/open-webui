@@ -252,6 +252,7 @@ web_modules/
 .env.test.local
 .env.production.local
 .env.local
+/open-webui_env
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
